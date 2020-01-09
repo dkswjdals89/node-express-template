@@ -1,0 +1,22 @@
+# webstorm config
+.idea
+
+# log files
+npm-debug.log
+/log
+
+# dependency modules
+node_modules
+
+# local config
+.env
+
+# tmp directories
+.tmp
+dist
+
+# archives
+*.zip
+
+# multipart
+/uploads
